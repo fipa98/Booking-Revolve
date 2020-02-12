@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public"
+    "\\public",
+    "\\src"
   ],
-  "SelectedNode": "\\src",
+  "SelectedNode": "\\public\\manifest.json",
   "PreviewInSolutionExplorer": false
 }
