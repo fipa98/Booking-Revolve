@@ -5,7 +5,7 @@ import InitContainer from "../src/components/initContainer/InitContainer"
 function App() {
     return (
         <div className="App">
-            <p>App</p>
+            <p>Under construction</p>
             <InitContainer />
         </div>
   );

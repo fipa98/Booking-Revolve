@@ -1,0 +1,17 @@
+.calendarRoot{
+
+}
+.calendarContainer {
+    color:#fff;
+    overflow:hidden;
+    height:300px;
+    width:100%;
+    border-radius: 20px;
+    border:0.5px solid #000;
+    background-color:#111;
+}
+.reactCalendarContainer{
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:15px;
+}
