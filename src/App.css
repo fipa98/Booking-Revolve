@@ -1,7 +1,19 @@
 body{
     color:white;
     background-color:#111;
+    margin: 0;
 }
 .App {
   text-align: center;
+  margin-left:auto;
+  margin-right:auto;
+  width:100%;
+}
+.containerApp{
+    display:inline-flex;
+}
+@media screen and (max-width: 790px) {
+    .containerApp {
+        display:inline-block;
+    }
 }

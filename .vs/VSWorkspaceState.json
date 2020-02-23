@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\src"
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\containerAddDate",
+    "\\src\\components\\containerSubmitDate",
+    "\\src\\components\\emailForm"
   ],
-  "SelectedNode": "\\public\\index.html",
+  "SelectedNode": "\\firestore.rules",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,78 @@
+.containerSubmitDateRoot {
+}
+.containerSubmitDateContainer {
+    color: #000;
+    max-width: 400px;
+    min-width: 300px;
+    background-color: #ffd800;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: inset 0px -30px 100px #877200;
+    margin:5px;
+}
+.header{
+    font-weight:lighter;
+    margin-top:20px;
+    margin-bottom:40px;
+}
+.horizontalDivider {
+    width: 70%;
+    height: 0.5px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #a68c00;
+}
+.options {
+    //background-color: #ffea73;
+}
+.info {
+    font-size: 1em;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: lighter;
+    color: #382f00;
+    margin-bottom:25px;
+}
+.chooseType {
+    display: inline-flex;
+    margin-bottom:25px;
+}
+.verticalDivider {
+    width: 0.5px;
+    background-color: #a68c00;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.submit > label {
+    font-size:14px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:10px;
+}
+.submit > input {
+    margin-bottom:10px;
+    width:60%;
+    height:1.5em;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:transparent;
+    border-radius:5px;
+    border:0.5px solid #111;
+}
+.reactCalendar {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+#submitButton {
+    margin-top: 30px;
+    background-color: #6b5a00;
+    color: #ffd800;
+    border:none;
+    height:30px;
+}
